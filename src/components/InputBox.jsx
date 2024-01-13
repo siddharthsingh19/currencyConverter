@@ -15,8 +15,8 @@ function InputBox({
 
   return (
     <div
-      className={`bg-white p-3 rounded-lg text-2xl flex ${className}`}
-      style={{ width: "80vh" }}
+      className={`bg-white p-3 rounded-lg flex ${className}`}
+      // style={{ width: "80vh" }}
     >
       <div className="w-1/2">
         <label
